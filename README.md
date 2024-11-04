@@ -1,4 +1,4 @@
-# 
+# Oasis Auction
 Oasis Auction is an on-chain privacy-preserving auction platform that allows auctioneers to launch _secret auctions_ to sell their tokens/NFT.
 
 Currently, the platform offers 2 types of on-chain auctions 
@@ -6,12 +6,6 @@ Currently, the platform offers 2 types of on-chain auctions
 - Blind auction: (sealed bid auction) is a type of auction where all bidders commit their offers in sealed envelopes, without knowing the bids of the other participants. The highest bid wins the auction. 
 
 - Lottery auction: is a type of auction where the winning bid is determined randomly
-
-
-
-<img src="https://i.imgur.com/JzkR2zV.png" width="1000px" >
-
-<img src="https://i.imgur.com/WAriF29.png" width="1000px" >
 
 
 ## Technical stack

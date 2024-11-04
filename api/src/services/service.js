@@ -5,7 +5,7 @@ const { NETWORK, CONTRACT, AUCTION_TYPE, TOKEN_TYPE, NETWORK_ID } = require('../
 
 // const BlindAuctionAbi = require("../artifacts/contracts/BlindAuction.sol/BlindAuction.json").abi;
 // const AuctionNFTAbi = require("../artifacts/contracts/AuctionNFT.sol/AuctionNFT.json").abi;
-// const BlindBidAbi = require("../artifacts/contracts/BlindBid.sol/BlindBid.json").abi;
+
 const BlindAuctionAbi = require('../abis/BlindAuction.json').abi
 const AuctionNFTAbi = require('../abis/AuctionNFT.json').abi
 const BlindBidAbi = require('../abis/BlindBid.json').abi

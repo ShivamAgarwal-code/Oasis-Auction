@@ -49,7 +49,7 @@
     padding: 0rem;
     border-radius: 1rem;
     position: relative;
-    /* color: var(--color) !important; */
+   
   }
 
   article:hover {
